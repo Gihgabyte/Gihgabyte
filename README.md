@@ -1,7 +1,7 @@
 # 💜 Hey, I'm Gigi!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Software+Engineering+student+%40+UFMS;Tech+%26+Social+Impact+enthusiast;Building+things+that+matter+%E2%9C%A8;Always+learning%2C+always+creating+%F0%9F%92%9C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Software+Engineering+%40+UFMS;Tech+%26+Social+Impact;Building+things+that+matter+%E2%9C%A8;Always+learning%2C+always+creating+%F0%9F%92%9C" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -38,7 +38,6 @@ I'm also interested in initiatives where **technology, people and social transfo
 
 I've been involved with **Enactus UFMS**, contributing to a community focused on entrepreneurship and social impact.
 
-> *I believe technology is more interesting when it is built for people. 💜*
 
 ---
 
@@ -53,23 +52,13 @@ I've been involved with **Enactus UFMS**, contributing to a community focused on
 ### ⚙️ Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,firebase" />
+  <img src="https://skillicons.dev/icons?i=postgresql,firebase" />
 </p>
 
 ### 🎨 Design & Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,vscode,git,github" />
-</p>
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=C084FC" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7" />
 </p>
 
 ---
@@ -91,15 +80,16 @@ I've been involved with **Enactus UFMS**, contributing to a community focused on
 ---
 
 ## 💌 Let's connect!
-
+```text 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="www.linkedin.com/in/giovanna-andrade-software-engineer">
     <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/SEU_USERNAME">
+  <a href="https://github.com/Gihgabyte">
     <img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+```
 
 <p align="center">
   <i>“Building with technology, learning with curiosity, creating with purpose.”</i>
