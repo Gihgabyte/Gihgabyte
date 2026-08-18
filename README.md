@@ -74,7 +74,7 @@ I've been involved with **Enactus UFMS**, contributing to a community focused on
 ```
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&hide_border=true&color=A855F7&line=C084FC&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gihgabyte&theme=tokyo-night&hide_border=true&color=A855F7&line=C084FC&point=FFFFFF" />
 </p>
 
 ---
@@ -84,6 +84,9 @@ I've been involved with **Enactus UFMS**, contributing to a community focused on
 <p align="center">
   <a href="www.linkedin.com/in/giovanna-andrade-software-engineer">
     <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SEU_USERNAME"> 
+    <img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white"/> 
   </a>
 </p>
 
