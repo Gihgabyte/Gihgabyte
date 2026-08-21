@@ -23,7 +23,7 @@
 
 I'm a **Software Engineering student at UFMS** who loves exploring the intersection between **technology and social impact**.
 
-I'm especially interested in how software can go beyond simply solving technical problems — creating experiences, communities and solutions that can actually make a difference.
+I'm especially interested in how software can go beyond simply solving technical problems: creating experiences, communities and solutions that can actually make a difference.
 
 Right now, I'm focused on growing as a developer, learning more about **AI, backend development and modern software engineering practices**, while building projects along the way.
 
